@@ -17,6 +17,7 @@ The **Domain URL & JS Extractor** is a Burp Suite extension that allows users to
 2. Clone this repository:
    ```bash
    git clone https://github.com/Hacker-Fighter001/domain-url-js-extractor.git
+   Download: https://github.com/Hacker-Fighter001/burpsuiteDomainUlrsExtractor/releases
 Open Burp Suite and go to the Extender tab.
 Click on the "Add" button to load the .py file from the cloned repository.
 Usage
